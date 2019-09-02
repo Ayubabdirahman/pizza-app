@@ -85,7 +85,7 @@ a.navbar-brand span:first-child:hover {
 	background-attachment: fixed;.
 }
 
-/* .sec3 {
+ .sec3 {
 	background-image: url("../images/pizza1.jpg");
 	background-size: cover;
 	background-position: center center;
@@ -99,7 +99,7 @@ a.navbar-brand span:first-child:hover {
 	background-attachment: fixed;
 }
 
-.secText {
+/* .secText {
 	padding: 50px 100px;
 	height: auto;
 }
@@ -120,7 +120,7 @@ font-size: 2em;
 .row
 {
 	height: 200px;
-} */ */
+} */ 
 
 /* .container {
 	height: 500px;
