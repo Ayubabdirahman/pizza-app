@@ -114,12 +114,12 @@ a.navbar-brand span:first-child:hover {
 	font-family: "Montserrat-light";
 font-size: 2em;
 }
-/* .row
+.row
 {
 	height: 200px;
 } */
 
-/* .container {
+ .container {
 	height: 500px;
 }
 
@@ -132,7 +132,7 @@ font-size: 2em;
 
 
 }
-/* .Orders
+ .Orders
 {
 	margin-top: 5%;
 }
@@ -153,7 +153,7 @@ font-size: 2em;
 	margin-top: 2%;
 } */
 
-/* .social-menu ul
+ .social-menu ul
 {
 position: absolute;
 margin-top: 100%;
