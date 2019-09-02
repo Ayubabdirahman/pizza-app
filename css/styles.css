@@ -1,23 +1,24 @@
-/* body {
+ body {
 	margin: 0;
 	padding: 0;
-} */
+}
 
-/* a.navbar-brand span:first-child {
+ a.navbar-brand span:first-child {
 	color: #207561;
 	font-size: 2em;
 	font-weight: bold;
-} */
+}
 
-/* a.navbar-brand span:nth-child(2) {
+/a.navbar-brand span:nth-child(2) {
 	color: #da4302;
-} */
+}
 
-/* a.navbar-brand span:first-child:hover {
+a.navbar-brand span:first-child:hover {
 	color: #da4302;
-} */
+}
 
-/* #title {
+
+ #title {
 	background-color: #d4d7dd;
 	color: #fff;
 	background-image: url("../images/pizza4.jpg");
@@ -25,8 +26,7 @@
 	height: 100vh;
 	background-position: center center;
 	background-attachment: fixed;
-} */
-
+}
 .container-fluid {
 	padding: 3% 15% 7%;
 }
@@ -45,11 +45,11 @@ navigation-bar
 	background-position: center center;
 }
 
-/.nav-item {
+.nav-item {
 	padding: 0 10px;
-} 
+}
 
-/* .nav-link {
+ .nav-link {
 
 	font-size: 1.8rem;
 	font-family: 'Ubuntu', sans-serif;
@@ -59,7 +59,12 @@ navigation-bar
 
 .navbar-nav {
 	margin-right: 40% !important;
-} */
+}
+
+
+
+
+
 
 /* section {
 	width: 100%;
